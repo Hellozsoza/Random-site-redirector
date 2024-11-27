@@ -5,7 +5,12 @@ const sites = [
     "https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099604670241&sku_id=17592548312016&_oak_page_source=501&source_goods_id=&current_rec_strategy=&refer_page_name=home&refer_page_id=10005_1732734384732_vcclmlonne&refer_page_sn=10005&_x_sessn_id=rircnbdzt8",
     "https://www.temu.com/hu/-2db-zsebméretű-usb-memóriakártya-nagysebességű-kompakt-memóriakártyák-32gb-64gb-128gb-méretekben-laptop-külső-tárolásához-usb-memória-flash-drive-mini-usb-flash-drive-g-601099632059625.html?_oak_mp_inf=EOnJrNCm1ogBGiBiN2I3ZGVhYmRjY2U0NGJmYmJiMGNiZGJjYzNjNDc3MiC0jqf4tjI%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2Fcc3c7eb5-94d6-4897-a4c7-b00cb3eefab5.jpg&spec_gallery_id=601099632059625&refer_page_sn=10005&refer_source=0&freesia_scene=1&_oak_freesia_scene=1&_oak_rec_ext_1=NDY5MDAw&_oak_gallery_order=1772266491%2C1647220124%2C621468089%2C340005886%2C1241056132&refer_page_el_sn=200024&refer_page_name=home&refer_page_id=10005_1732734384732_vcclmlonne&_x_sessn_id=rircnbdzt8",
     "https://www.temu.com/hu/-eva-storage-bag-protective-case-for-gaming-devices--and-accessories-waterproof-shockproof-dustproof-anti-drop--anti--g-601099602111946.html?_oak_mp_inf=EMrbiMKm1ogBGiBiN2I3ZGVhYmRjY2U0NGJmYmJiMGNiZGJjYzNjNDc3MiDSjqf4tjI%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Fopen%2F2024-06-28%2F1719561347413-7d37be8d177c4aa1a12dd4d6599ed348-goods.jpeg&spec_gallery_id=4255925231&refer_page_sn=10005&refer_source=0&freesia_scene=1&_oak_freesia_scene=1&_oak_rec_ext_1=NjUwMDA&_oak_gallery_order=2060471170%2C124821209%2C28215171%2C826060855%2C5685833&refer_page_el_sn=200024&refer_page_name=home&refer_page_id=10005_1732734384732_vcclmlonne&_x_sessn_id=rircnbdzt8",
-    "https://www.alza.hu/gigabyte-geforce-rtx-4060-windforce-oc-8g-d7805974.htm?kampan=adw1_komponenty_pla_all_obecna_komponenty-all_c_9107329_EGr4060w2"
+    "https://www.alza.hu/gigabyte-geforce-rtx-4060-windforce-oc-8g-d7805974.htm?kampan=adw1_komponenty_pla_all_obecna_komponenty-all_c_9107329_EGr4060w2",
+    "https://github.com/Hellozsoza?tab=repositories",
+    "https://www.whatbeatsrock.com/",
+    "https://www.whatbeatsrock.com/user/wwwwwwwwwwwwwwwwwwwwwww/custom",
+    "https://neal.fun/infinite-craft/",
+    "https://neal.fun"
 ];
 
 // Function to redirect to a random site
